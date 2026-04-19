@@ -1,0 +1,11 @@
+{
+ "name":"lilin",
+ "age":"21",
+ "education":
+ [{"school":"向阳小学","year":"20011-2017"},
+ {"school":"石景山学校","year":"2017-2020"},
+ {"school":"大名一中","year":"2020-2023"},
+ {"school":"河北民族师范学院","year":"2023-2027"}
+],
+"skill":["CET-4","Python"]
+}
